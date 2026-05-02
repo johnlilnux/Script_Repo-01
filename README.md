@@ -1,2 +1,2 @@
 # Script_Repo-01
-Basic commands and automations 
+A basic user-friendly script, where users can input their name and receive a welcome message.
